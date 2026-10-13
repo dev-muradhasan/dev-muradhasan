@@ -47,12 +47,12 @@ Building modern, scalable, and user-friendly web applications using React, Next.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-riaz&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-riaz&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=dev-muradhasan&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-muradhasan&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-riaz&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-muradhasan&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -60,7 +60,7 @@ Building modern, scalable, and user-friendly web applications using React, Next.
 # 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-riaz&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-muradhasan&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
