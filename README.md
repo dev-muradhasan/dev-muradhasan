@@ -73,9 +73,9 @@ Building modern, scalable, and user-friendly web applications using React, Next.
 A full-stack recipe sharing platform with authentication, CRUD operations, image upload, likes, and comments.
 
 
-🔗 *Live:* [Live Demo](https://assignment10-client-site.vercel.app/)
+🔗 *Live:* [Live Demo]()
 
-💻 *Code:* [GitHub Repository](https://github.com/dev-riaz/Assignment10-client-site)
+💻 *Code:* [GitHub Repository]()
 
 ---
 
@@ -93,9 +93,9 @@ Modern developer portfolio built with Next.js, Framer Motion, and Tailwind CSS.
 ### 📋 Docpoent App
 Full CRUD task management application with authentication and responsive UI.
  
-🔗 *Live:* [Live Demo](https://assignment-9-client-site-kappa.vercel.app/)
+🔗 *Live:* [Live Demo]()
 
-💻 *Code:* [GitHub Repository](https://github.com/dev-riaz/Assignment-9-clientSite)
+💻 *Code:* [GitHub Repository]()
 
 ---
 
@@ -109,15 +109,15 @@ Real-time chat application built with Socket.io.
 
 <p align="left">
 
-<a href="mailto:riazmahamud113@gmail.com">
+<a href="mailto:mdmuradhasan151@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" width="45"/>
 </a>
 
-<a href="https://www.linkedin.com/in/riaz-mahamud-dev/" target="_blank">
+<a href="https://www.linkedin.com/in/md-murad-hasan-337602432" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 
-<a href="https://github.com/dev-riaz" target="_blank">
+<a href="https://github.com/dev-muradhasan" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" width="45"/>
 </a>
 
@@ -127,13 +127,13 @@ Real-time chat application built with Socket.io.
 
 </p>
 
-📧 *Email:* riazmahamud113@gmail.com
+📧 *Email:* mdmuradhasan151@gmail.com
 
-💼 *LinkedIn:* https://www.linkedin.com/in/riaz-mahamud-dev/
+💼 *LinkedIn:* https://www.linkedin.com/in/md-murad-hasan-337602432
 
-🌍 *Portfolio:* [Live Demo](https://my-portfolio-sigma-olive-jdp3clhl52.vercel.app/)
+🌍 *Portfolio:* [Live Demo]()
 
-🐱 *GitHub:* [GitHub Repository](https://github.com/dev-riaz/my-portfolio)
+🐱 *GitHub:* [GitHub Repository]()
 
 ---
 
