@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Riaz Mahamud
+# Hi 👋, I'm Murad Hasan
 
 ### 🚀 Aspiring Full Stack Developer
 
