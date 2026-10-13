@@ -59,8 +59,6 @@ Building modern, scalable, and user-friendly web applications using React, Next.
 
 # 📈 Contribution Graph
 
-# 📈 Contribution Graph
-
 <p align="center">
   <a href="https://github.com/dev-muradhasan">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-muradhasan&theme=tokyo-night&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
