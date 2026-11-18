@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="./banner/github_banner.png" alt="Hello world">
+<img src="https://res.cloudinary.com/hy4urdfq/image/upload/f_auto/q_auto/gfw9w70f2y00nh6y3rwc" alt="Hello world">
 
 <br/>
 
