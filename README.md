@@ -1,5 +1,5 @@
 <!--- banner --->
-<img src="https://res.cloudinary.com/hy4urdfq/image/upload/f_auto/q_auto/uhqqbteuwqbobdgyh0qe" alt="Hello world">
+<img style="height: 300" src="https://res.cloudinary.com/hy4urdfq/image/upload/f_auto/q_auto/uhqqbteuwqbobdgyh0qe" alt="Hello world">
 
 <br/>
 
