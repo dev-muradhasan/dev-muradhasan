@@ -1,4 +1,4 @@
-&#x20;\<div align="center">
+<div align="center">
 
 # Hi 👋, I'm Murad Hasan
 
