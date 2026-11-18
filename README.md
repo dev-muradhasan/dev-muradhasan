@@ -1,6 +1,6 @@
 <!--- banner --->
 <img
-  style="height: 200px;"
+  style="height: 300px; width: 100%"
   src="https://res.cloudinary.com/hy4urdfq/image/upload/f_auto/q_auto/uhqqbteuwqbobdgyh0qe"
   alt="Hello world"
 />
