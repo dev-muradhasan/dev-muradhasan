@@ -1,7 +1,7 @@
 <!--- banner --->
 <img
   style="height: 300px; width: 100%"
-  src="https://res.cloudinary.com/hy4urdfq/image/upload/f_auto/q_auto/uhqqbteuwqbobdgyh0qe"
+  src="https://res.cloudinary.com/hy4urdfq/image/upload/f_auto/q_auto/yxgnhbfmpmg7sciiusm0"
   alt="Hello world"
 />
 <br/>
